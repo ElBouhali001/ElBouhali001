@@ -1,6 +1,6 @@
 # Hi, I'm Houssam El Mouedden
 
-**Data Scientist · ML Engineer · AI Researcher**
+**Data Scientist · ML Engineer · AI Engineer /Researcher**
 Based in Paris, France · Open to internships (April 2026) and work-study contracts (September 2026)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-houssamelmouedden-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/houssamelmouedden)
